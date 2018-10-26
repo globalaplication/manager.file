@@ -1,2 +1,2 @@
 # manager.file
-Dosya yöneticisi (26 Ekim 2018)
+Dosya yöneticisi (v2.0)(26 Ekim 2018)
