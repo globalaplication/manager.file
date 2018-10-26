@@ -1,0 +1,2 @@
+# managet.file
+Dosya yöneticisi
